@@ -11,9 +11,12 @@ Two options:
 | Grayscale Autochart .kml & .tif file  | BathymetryFromAutochart.R  | 
 | Google Earth polygons as a .kml file  | BathymetryfromGoogleEarth.R  |
 
+Example Grayscale Autochart .tif file.
+<img src
+
 Both codes will produce a bathymetry map, with contours colored by their depth. 
+<img src="examples/RedPond-bathymetry.png" width = "500">
 
-!(examples/RedPond-bathymetry.png)
+These maps can be overlaid on topography/LiDAR. <br>
 
-These maps can be overlaid on topography/LiDAR.
-!(examples/AGU-map.png)
+<img src="examples/BearLake-AGU-example.png" width = "500">
