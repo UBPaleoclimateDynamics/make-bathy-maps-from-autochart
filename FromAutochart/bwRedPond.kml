@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<GroundOverlay>
+    <name>AutoChart map - bwRedPond</name>
+    <color>ffffffff</color>
+    <Icon>
+        <href>bwRedPond.tif</href>
+        <viewBoundScale>0.75</viewBoundScale>
+    </Icon>
+    <LatLonBox>
+        <north>42.13376408</north>
+        <south>42.13268473</south>
+        <east>-78.91049269</east>
+        <west>-78.91380390</west>
+    </LatLonBox>
+</GroundOverlay>
+</kml>
