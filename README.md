@@ -25,5 +25,5 @@ These maps can be overlaid on topography/LiDAR. <br>
 <img src="examples/BearLake-AGU-example.png" width = "500">
 
 # Ideas for improvement 
-* Would be great to use raw Autochart tracks (i.e. no conversion to grayscale and contour interpolation in Autochart software first).
+* Would be great to use raw Autochart tracks (i.e. no conversion to grayscale and contour interpolation in Autochart software first). Likely just a matter of adding some to the code, like interpolating the contours in R instead of Autochart software.
 * Is there an easier way to "plot" the bathymetry on top of LiDAR or other basemaps? (rather than making a transparent background bathy map, then overlaying onto base map). RGT has done in ArcGIS before.
